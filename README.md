@@ -16,19 +16,15 @@ We are designing a caster in order to practice using CAD
 
 ### Description
 ___
-This assignment has the student create a base for a caster in CAD. 
+This assignment has the student create a base for a caster in CAD. The base's dimensions are 200 mm x 120 mm and 8 mm thick.  It has 6 holes 10 mm wide and 20 mm from the edge equally spaced along the edges. (The last two sentences are borrowed, with permission, from Mr. Helmstetter's Template)
 
 ### Evidence
 ___
-[The Base in Onshape](https://cvilleschools.onshape.com/documents/0d70f655203ca304cb3c5b7d/w/f55603f962f6fc74f5548a68/e/41d730c570a8d75fce9f51b6)
+[The Base in Onshape (Now includes Mount on top of Base)](https://cvilleschools.onshape.com/documents/ec4f71bc24dd67e5a4c42758/w/aa547515301ff3d1e00384ab/e/31e05afe62628d183b900e9f) 
 
 ### Image
 ___
-This is how you will write image code for INTERNALLY STORED images on your repo.   just FYI.
-~~~
-<img src="images/Base.jpg" alt="The Base" width="200">
-~~~
-<img src="https://github.com/OneCHSEngr/BasicCAD/blob/master/images/Base.jpg" width="100">
+<img src="https://github.com/hheisig51/BasicCAD/blob/master/Images/Screen%20Shot%202020-09-25%20at%202.19.22%20PM.png?raw=true" width="500">
 
 ### Reflection
 ___
@@ -40,6 +36,10 @@ This was my first Onshape part and [following along with Dr. Shields made it sup
 * linear patterns (no shortcut)
 
 Onshape is awesome.  I found it really helpful to rename all my sketches.  It is going to be a GREAT year in engineering.
+(Once again, borrowed this reflection from Mr. Helmstetter's template.)
+
+My original, poorly written reflection:
+When doing a linear pattern to "duplicate" features in Onshape, I have to remember to change the settings to do a feature pattern. Remember this please, future Henry.
 
 ---
 
