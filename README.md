@@ -49,6 +49,8 @@ When doing a linear pattern to "duplicate" features in Onshape, I have to rememb
 ### Description
 
 ### Evidence
+___
+[Elementary, my dear Watson. (Click here to go to the OnShape document)](https://cvilleschools.onshape.com/documents/ec4f71bc24dd67e5a4c42758/w/aa547515301ff3d1e00384ab/e/4e750f4874e72eec43b370c4)
 
 ### Image
 ___
@@ -65,6 +67,8 @@ ___
 ### Description
 
 ### Evidence
+___
+[Link to the Spoon document on OnShape (Fork to come for $9.99 an hour)](https://cvilleschools.onshape.com/documents/ec4f71bc24dd67e5a4c42758/w/aa547515301ff3d1e00384ab/e/98a96ebcc725f926f8dd35f2)
 
 ### Image
 ___
@@ -80,6 +84,8 @@ ___
 ### Description
 
 ### Evidence
+___
+[I sometimes get tire-d of putting these links, but it's good to provide evidence of your work](https://cvilleschools.onshape.com/documents/ec4f71bc24dd67e5a4c42758/w/aa547515301ff3d1e00384ab/e/5dccdd7620c3efb8676c16d4)
 
 ### Image
 ___
@@ -96,7 +102,7 @@ ___
 ### Description
 
 ### Evidence
-
+[Haha! Got you! It's the same link I put for the tire! One-for-two deal!](https://cvilleschools.onshape.com/documents/ec4f71bc24dd67e5a4c42758/w/aa547515301ff3d1e00384ab/e/5dccdd7620c3efb8676c16d4)
 ### Image
 ___
 <img src="https://github.com/hheisig51/BasicCAD/blob/master/Images/Screen%20Shot%202020-10-08%20at%2011.03.07%20AM.png?raw=true" width="500">
