@@ -47,6 +47,9 @@ When doing a linear pattern to "duplicate" features in Onshape, I have to rememb
 ## Mount
 
 ### Description
+___
+On the Base, make a line 120mm off the left side. Extrude the face you create as a new part, and there you go! If you wish to create the base, look above. 
+Additionally, you can create the Mount by using a modification on the Base instructions. Create a 120mm by 120mm (and 8mm thick) shape instead of 120mm x 200mm, and then only create 4 evenly spaced (10mm in diameter, and 20mm from each edge) circles, with a 25mm diameter circle in the middle.
 
 ### Evidence
 ___
