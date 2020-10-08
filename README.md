@@ -51,6 +51,9 @@ When doing a linear pattern to "duplicate" features in Onshape, I have to rememb
 ### Evidence
 
 ### Image
+___
+<img src="https://github.com/hheisig51/BasicCAD/blob/master/Images/Screen%20Shot%202020-09-29%20at%201.49.56%20PM.png?raw=true" width="500">
+<img src="https://github.com/hheisig51/BasicCAD/blob/master/Images/Screen%20Shot%202020-09-29%20at%201.50.12%20PM.png?raw=true" width="500">
 
 ### Reflection
 
@@ -64,6 +67,8 @@ When doing a linear pattern to "duplicate" features in Onshape, I have to rememb
 ### Evidence
 
 ### Image
+___
+<img src="https://github.com/hheisig51/BasicCAD/blob/master/Images/Screen%20Shot%202020-10-06%20at%2011.19.25%20AM.png?raw=true" width="500">
 
 ### Reflection
 
@@ -77,6 +82,9 @@ When doing a linear pattern to "duplicate" features in Onshape, I have to rememb
 ### Evidence
 
 ### Image
+___
+<img src="https://github.com/hheisig51/BasicCAD/blob/master/Images/Screen%20Shot%202020-10-08%20at%2011.02.46%20AM.png?raw=true" width="500">
+<img src="https://github.com/hheisig51/BasicCAD/blob/master/Images/Screen%20Shot%202020-10-08%20at%2010.41.30%20AM.png?raw=true" width="500">
 
 ### Reflection
 
@@ -90,6 +98,9 @@ When doing a linear pattern to "duplicate" features in Onshape, I have to rememb
 ### Evidence
 
 ### Image
+___
+<img src="https://github.com/hheisig51/BasicCAD/blob/master/Images/Screen%20Shot%202020-10-08%20at%2011.03.07%20AM.png?raw=true" width="500">
+<img src="https://github.com/hheisig51/BasicCAD/blob/master/Images/Screen%20Shot%202020-10-08%20at%2010.41.43%20AM.png?raw=true" width="500">
 
 ### Reflection
 
