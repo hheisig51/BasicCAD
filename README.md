@@ -1,8 +1,6 @@
 # BasicCAD Engineering Notebook
-
 We are designing a caster in order to practice using CAD
-
----
+___
 ## Table of Contents
 * [Table of Contents](#Table-of-Contents)
 * [Base](#Base)
@@ -20,7 +18,7 @@ This assignment has the student create a base for a caster in CAD. The base's di
 
 ### Evidence
 ___
-[The Base in Onshape (Now includes Mount on top of Base)](https://cvilleschools.onshape.com/documents/ec4f71bc24dd67e5a4c42758/w/aa547515301ff3d1e00384ab/e/31e05afe62628d183b900e9f) 
+[The Base in Onshape (Now includes Mount on top of Base)](https://cvilleschools.onshape.com/documents/ec4f71bc24dd67e5a4c42758/w/aa547515301ff3d1e00384ab/e/31e05afe62628d183b900e9f)
 
 ### Image
 ___
@@ -38,12 +36,9 @@ This was my first Onshape part and [following along with Dr. Shields made it sup
 Onshape is awesome.  I found it really helpful to rename all my sketches.  It is going to be a GREAT year in engineering.
 (Once again, borrowed this reflection from Mr. Helmstetter's template.)
 
-My original, poorly written reflection:
-When doing a linear pattern to "duplicate" features in Onshape, I have to remember to change the settings to do a feature pattern. Remember this please, future Henry.
+My original, poorly written reflection: When doing a linear pattern to "duplicate" features in Onshape, I have to remember to change the settings to do a feature pattern. Remember this please, future Henry.
 
 ---
-
-
 ## Mount
 
 ### Description
@@ -61,13 +56,15 @@ ___
 <img src="https://github.com/hheisig51/BasicCAD/blob/master/Images/Screen%20Shot%202020-09-29%20at%201.50.12%20PM.png?raw=true" width="500">
 
 ### Reflection
+___
+Temp
 
 ---
-
-
 ## Fork
 
 ### Description
+___
+Temp
 
 ### Evidence
 ___
@@ -78,13 +75,15 @@ ___
 <img src="https://github.com/hheisig51/BasicCAD/blob/master/Images/Screen%20Shot%202020-10-06%20at%2011.19.25%20AM.png?raw=true" width="500">
 
 ### Reflection
+___
+Temp
 
----
-
-
+___
 ## Tire
 
 ### Description
+___
+Temp
 
 ### Evidence
 ___
@@ -96,34 +95,46 @@ ___
 <img src="https://github.com/hheisig51/BasicCAD/blob/master/Images/Screen%20Shot%202020-10-08%20at%2010.41.30%20AM.png?raw=true" width="500">
 
 ### Reflection
+___
+Temp
 
 ---
-
-
 ## Wheel
 
 ### Description
+___
+Temp
 
 ### Evidence
+___
 [Haha! Got you! It's the same link I put for the tire! One-for-two deal!](https://cvilleschools.onshape.com/documents/ec4f71bc24dd67e5a4c42758/w/aa547515301ff3d1e00384ab/e/5dccdd7620c3efb8676c16d4)
+
 ### Image
 ___
 <img src="https://github.com/hheisig51/BasicCAD/blob/master/Images/Screen%20Shot%202020-10-08%20at%2011.03.07%20AM.png?raw=true" width="500">
 <img src="https://github.com/hheisig51/BasicCAD/blob/master/Images/Screen%20Shot%202020-10-08%20at%2010.41.43%20AM.png?raw=true" width="500">
 
 ### Reflection
+___
+Temp
 
 ---
-
-
 ## AxleCollarBearings
 
 ### Description
+___
+Temp
 
 ### Evidence
+___
+Temp
 
 ### Image
+___
+Temp
 
 ### Reflection
+___
+Temp
 
 ---
