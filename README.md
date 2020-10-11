@@ -131,7 +131,9 @@ Temp
 
 ### Image
 ___
-Temp
+<img src="https://github.com/hheisig51/BasicCAD/blob/master/Images/Screen%20Shot%202020-10-11%20at%202.47.18%20PM.png?raw=true" width="500">
+<img src="https://github.com/hheisig51/BasicCAD/blob/master/Images/Screen%20Shot%202020-10-11%20at%202.47.45%20PM.png?raw=true" width="500">
+<img src="https://github.com/hheisig51/BasicCAD/blob/master/Images/Screen%20Shot%202020-10-11%20at%202.48.03%20PM.png?raw=true" width="500">
 
 ### Reflection
 ___
