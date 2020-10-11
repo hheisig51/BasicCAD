@@ -154,8 +154,8 @@ Temp
 
 ### Image
 ___
-<img src="" width="500">
-
+<img src="https://github.com/hheisig51/BasicCAD/blob/master/Images/Screen%20Shot%202020-10-11%20at%202.59.31%20PM.png?raw=true" width="500">
+<img src="https://github.com/hheisig51/BasicCAD/blob/master/Images/Screen%20Shot%202020-10-11%20at%202.59.47%20PM.png?raw=true" width="500">
 
 ### Reflection
 ___
@@ -174,8 +174,9 @@ Temp
 
 ### Image
 ___
-<img src="" width="500">
-
+<img src="https://github.com/hheisig51/BasicCAD/blob/master/Images/Screen%20Shot%202020-10-11%20at%203.10.52%20PM.png?raw=true" width="500">
+<img src="https://github.com/hheisig51/BasicCAD/blob/master/Images/Screen%20Shot%202020-10-11%20at%203.12.45%20PM.png?raw=true" width="500">
+<img src="https://github.com/hheisig51/BasicCAD/blob/master/Images/Screen%20Shot%202020-10-11%20at%203.13.14%20PM.png?raw=true" width="500">
 
 ### Reflection
 ___
