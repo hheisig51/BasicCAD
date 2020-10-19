@@ -1,5 +1,5 @@
 # BasicCAD Engineering Notebook
-We are designing a caster in order to practice using CAD
+We are designing a caster in order to practice using CAD.
 ___
 ## Table of Contents
 * [Table of Contents](#Table-of-Contents)
