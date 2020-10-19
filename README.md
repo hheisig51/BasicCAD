@@ -59,7 +59,19 @@ ___
 
 ### Reflection
 ___
-Temp
+**ALWAYS LOOK FOR THE EASY WAY OUT!!**
+I made the whole mount piece using the instructions provided, which took me about 5 minutes. I then realized I could just extrude off the Base, which took me about 30 seconds. So, that's my main piece of advice.
+
+> Is there any more Mr. Heisig? That's a pretty lame reflection.
+
+Why yes! There is! But, I find it rather rude that you called my reflection lame.
+
+
+Anyways, let me tell you how I extruded the part. 
+1. I made a line, bordering off the face I wanted to use.
+2. Then, I extruded the face, and got my little mount!
+
+You can use this idea of recycling your work to make so many shortcuts! If one thing is just a slightly modified version of another, just copy! No point in doing all the work all over if it's just going to function the exact same.
 
 ---
 ## Fork
