@@ -129,7 +129,8 @@ Temp
 
 ### Evidence
 ___
-Temp
+[**Axl(e)** Rose and Blue **Collar** Worker right here!](https://cvilleschools.onshape.com/documents/ec4f71bc24dd67e5a4c42758/w/aa547515301ff3d1e00384ab/e/208c9fbe9b374d961ee0586a)
+[The other's simply couldn't bear it, so little Junior **Bearing** got left behind ): (Although, I heard he's engaged and may soon become Junior Washer!)](https://cvilleschools.onshape.com/documents/ec4f71bc24dd67e5a4c42758/w/aa547515301ff3d1e00384ab/e/34cb78f4309b697b9a854896)
 
 ### Image
 ___
@@ -150,7 +151,7 @@ Temp
 
 ### Evidence
 ___
-Temp
+[Click here for OnShape link *(I really don't like my lawyers right now)*](https://cvilleschools.onshape.com/documents/ec4f71bc24dd67e5a4c42758/w/aa547515301ff3d1e00384ab/e/a6457fad3c80bb6cb9875bae)
 
 ### Image
 ___
@@ -170,7 +171,7 @@ Temp
 
 ### Evidence
 ___
-Temp
+[Here we are! Frankly, I'm a little sad it's all over now, but life goes on](https://cvilleschools.onshape.com/documents/ec4f71bc24dd67e5a4c42758/w/aa547515301ff3d1e00384ab/e/98aee7f156825fa8776e0513)[!](https://en.wikipedia.org/wiki/Life_Goes_On_(Gym_Class_Heroes_song))
 
 ### Image
 ___
