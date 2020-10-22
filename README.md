@@ -80,7 +80,7 @@ You can use this idea of recycling your work to make so many shortcuts! If one t
 ___
 Start out with a sketch, on the front plane, of a circle with a diameter of 80 mm, then extrude that sketch 8 mm. Then, sketch, on the front face of the cylinder, a straight *construction* line. The line should be vertical from the centerpoint, and end somewhere *before* the edge of the circle. Then, create a center-point rectangle off of the endpoint of that construction line. The Rectangle should be 40 mm x 5 mm, and look perpendicular to the construction line. The edge of the rectangle closest to the centerpoint should be 15 mm away from it.
 ___
-**Yours should look similar to this!:**
+**Yours should look similar to this:**
 
 <img src="https://github.com/hheisig51/BasicCAD/blob/master/Images/Screen%20Shot%202020-10-21%20at%207.45.32%20PM.png?raw=true" width="500">
 
@@ -99,7 +99,14 @@ ___
 
 ### Reflection
 ___
-This Fork assignment really taught me that the basic little shorcuts are lifesavers. Stuff like mirroring, extruding through multiple features, etc. It just all adds up to a pleasant experience.
+This Fork assignment really taught me that the basic little shorcuts are lifesavers. Stuff like mirroring, extruding through multiple features, etc. It just all adds up to a pleasant experience. 1 minute saved every day adds up to over 6 hours each year. Really, my reflection is just about paying attention every single second. 
+Can I shorten this? 
+Can I cut this corner a different way? 
+**USE YOUR BRAIN!**
+
+Also, when in doubt, shave the edges. Chamfer, fillet, etc. Supress all of those on the Fork, and tell me honestly that it looks better like that. All those little refinements and details add up into such a pleasing part.
+
+Just look closely at modern phones, and you'll find so many little curves and cuts on the design. Plus, you can even use those devices to try and figure out how to use shorcuts to design them as quick as possible.
 
 ___
 ## Tire
