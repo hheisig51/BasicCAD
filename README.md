@@ -78,7 +78,16 @@ You can use this idea of recycling your work to make so many shortcuts! If one t
 
 ### Description
 ___
-Temp
+Start out with a sketch, on the front plane, of a circle with a diameter of 80 mm, then extrude that sketch 8 mm. Then, sketch, on the front face of the cylinder, a straight *construction* line. The line should be vertical from the centerpoint, and end somewhere *before* the edge of the circle. Then, create a center-point rectangle off of the endpoint of that construction line. The Rectangle should be 40 mm x 5 mm, and look perpendicular to the construction line. The edge of the rectangle closest to the centerpoint should be 15 mm away from it.
+___
+**Yours should look similar to this!:**
+
+<img src="https://github.com/hheisig51/BasicCAD/blob/master/Images/Screen%20Shot%202020-10-21%20at%207.45.32%20PM.png?raw=true" width="500">
+
+___
+Alright, now that you have that sketch, extrude it 75 mm up. Fillet the top two short edges by 15 mm, circular. Then do a 1 mm circular fillet on all the other edges of the extrusion. Once you do that, fillet the edges between the extrusion and the cylinder by 4 mm, circular. Mirror that across the Top plane. On one of the outside faces, sketch a circle, along the middle, with a 10 mm diameter. It should be 15 mm from the top most edge of the extrusion. Once you sketch that, extrude remove through both extrusions. 
+
+Now, flip over to the back side of the fork. Sketch 2 circles on the center point, one 15 mm in diameter, and another 20 mm in diameter. Extrude the ring 60 mm out. Put a 1 mm chamfer on the outside edge of the pipe, and also on the two remaining edges of the main cylinder. See the finished product below.
 
 ### Evidence
 ___
@@ -90,7 +99,7 @@ ___
 
 ### Reflection
 ___
-Temp
+This Fork assignment really taught me that the basic little shorcuts are lifesavers. Stuff like mirroring, extruding through multiple features, etc. It just all adds up to a pleasant experience.
 
 ___
 ## Tire
