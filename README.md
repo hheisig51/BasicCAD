@@ -113,7 +113,11 @@ ___
 
 ### Description
 ___
-Temp
+Start sketching on the front plane, and draw a horizontal construction line, and a vertical construction line. Around the end point of the vertical construction line, draw a trapezoid. The bottom line should be 20 mm. The radius between the horizontal construction line and the bottom line should be 80 mm. The diameter between the horizontal construction and the top line should be 110 mm. The angle measure between the vertical construction line should be 10°.
+
+Revolve the face of that trapezoid along horizontal construction line.
+
+Do a circular 8mm fillet on the two edges of the wheel.
 
 ### Evidence
 ___
@@ -126,7 +130,8 @@ ___
 
 ### Reflection
 ___
-Temp
+Those measurements around the line was an amazing thing to learn. I kept trying to do half the distance for the radius, instead of the diameter. However, it would just keep breaking! It really goes to show how the constraints need to be more than just how it "looks". When making constraints, it's really very important to make sure your constraints are actually what they're supposed to be. To put it in more flowery terms, make it *breathe*.
+(:
 
 ---
 ## Wheel
